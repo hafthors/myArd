@@ -6,14 +6,15 @@
     <title>Spanish Vocabulary</title>
   
   </head>
-<style>    * {
+<style>     {
     background-color: pink;
 }
 	</style>
+ 
   <body>
     <h1>Colors</h1>
-    <h2>Learn the colors in Spanish!</h2>
-	<h2 class="color-title" id="red">Rojo</h2>
 
+   <p>It's very important to learn a language and the first thing you can do is to learn to say good morning</p>
+  
   </body>
 </html>
